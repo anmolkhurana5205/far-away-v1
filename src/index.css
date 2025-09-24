@@ -103,6 +103,12 @@ h3 {
   gap: 0.8rem;
 }
 
+input[type="checkbox"] {
+  height: 2rem;
+  width: 2rem;
+  accent-color: #e5771f;
+}
+
 .list li button {
   cursor: pointer;
   background: none;
